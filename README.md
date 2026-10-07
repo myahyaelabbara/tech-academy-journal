@@ -9,4 +9,5 @@ My 12-week journey from zero to junior data analyst.
 
 ## Progress
 - Week 1: how computers work, files and paths, the internet, PowerShell, my developer toolkit
-- Week 2: Git save points and GitHub 
+- Week 2: Git save points and GitHub
+- first push to GitHub^^
